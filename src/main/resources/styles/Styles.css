@@ -1,0 +1,32 @@
+#GridPane{
+    -fx-background-image: url("/resources/wallpaper.jpg");
+}
+.label {
+    minHeight:"16"; minWidth:"69";
+    -fx-border-color: white;
+}
+#place1{
+    -fx-font-size: 24;
+    -fx-alignment: center;
+}
+#place2{
+    -fx-font-size: 24;
+    -fx-alignment: center;
+}
+#place3{
+    -fx-font-size: 24;
+    -fx-alignment: center;
+}
+#place4{
+    -fx-font-size: 24;
+    -fx-alignment: center;
+}
+#place5{
+    -fx-font-size: 24;
+    -fx-alignment: center;
+}
+#place6{
+    -fx-font-size: 24;
+    -fx-alignment: center;
+}
+
